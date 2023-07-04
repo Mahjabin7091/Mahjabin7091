@@ -15,6 +15,6 @@ Languages and Tools:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahjabin7091&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=050A30)
 
