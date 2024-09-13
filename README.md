@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python
 - 💬 Reach out to me if you have any questions
-- 📫 How to reach me: [Email - @Mahjabin](mahjabin.sajadi1991@gmail.com)
+- 📫 How to reach me: [Email](mahjabin.sajadi1991@gmail.com)
 
 Languages and Tools: 
 <br/>
