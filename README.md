@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahjabin Sajadi! 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💬 Reach out to me if you have any questions
 - 📫 How to reach me: [LinkedIn - @Mahjabin](https://www.linkedin.com/in/mahjabin-sajadi-41a56a61/)
 
